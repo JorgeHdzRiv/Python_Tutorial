@@ -13,8 +13,10 @@ De igual forma algunos ejercicios semanales para ir practicando la logica, adema
 ## 100 dias con Python
 
 
+### [Descripcion Retos](./Retos_100/readme.MD)
 
-Agradezco cualquier correcion o colaboracion.
 
 ## Redes sociales
 
+
+*Agradezco cualquier correcion y/o colaboracion.*
