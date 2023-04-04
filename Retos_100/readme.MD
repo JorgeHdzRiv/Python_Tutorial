@@ -20,3 +20,4 @@ Todos los derechos reservados
 
 ## Solucion Retos
 
+### [Primeros 10 dias](./solucion/10_dias_sol.ipynb)
