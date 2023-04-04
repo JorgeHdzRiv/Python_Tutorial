@@ -15,4 +15,8 @@ Todos los derechos reservados
 
 ## Descripcion Retos
 
-### [Primeros 10 dias](./10-dias.ipynb)
+### [Primeros 10 dias](./retos/10-dias.ipynb)
+
+
+## Solucion Retos
+
