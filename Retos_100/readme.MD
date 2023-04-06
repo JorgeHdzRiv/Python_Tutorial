@@ -25,6 +25,12 @@ Mucho exito!!!! 😄😄
 
 ### [30-40 dias](./retos/30_40.ipynb)
 
+### [40-50 dias](./retos/40_50.ipynb)
+
+### [50-60 dias](./retos/50_60.ipynb)
+
+### [60-70 dias](./retos/60_70.ipynb)
+
 ## Solucion Retos
 
 ### [Primeros 10 dias](./solucion/10_dias_sol.ipynb)
