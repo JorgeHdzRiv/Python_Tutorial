@@ -1,4 +1,4 @@
-# 100 dias con Python
+# Retos semanales Python
 
 Retos elaborados por la comunidad de Mouredev
 

@@ -9,6 +9,8 @@ De igual forma algunos ejercicios semanales para ir practicando la logica, adema
 
 ## Retos semanales
 
+### [Descripcion](./Retos_Semanales/2023/readme.md)
+
 
 ## 100 dias con Python
 
