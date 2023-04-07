@@ -20,9 +20,9 @@ Mucho exito!!!! 😄😄
 
 |NumeroReto|Dificultad|Nombre|Link|
 |----------|----------|------|------|
-|0|Facil|El famoso "FIZZ BUZZ"|[Reto0](./retos/0_10.ipynb)|
-|||||
-|||||
+|0|Facil|El famoso "FIZZ BUZZ"|[Reto 0](./retos/0_10.ipynb)|
+|1|Facil|El lenguaje "HACKER"|[Reto 1](./retos/0_10.ipynb)|
+|2|Media|El partido de tenis|[Reto 2](./retos/0_10.ipynb)|
 |||||
 |||||
 |||||
@@ -33,8 +33,6 @@ Mucho exito!!!! 😄😄
 |||||
 |||||
 
-#1 - 02/01/23 | Fácil | EL "LENGUAJE HACKER" | Correcciones: [EN VÍDEO] [MI SOLUCIÓN] [COMUNIDAD]
-#2 - 09/01/23 | Media | EL PARTIDO DE TENIS | Correcciones: [EN VÍDEO] [MI SOLUCIÓN] [COMUNIDAD]
 #3 - 16/01/23 | Media | EL GENERADOR DE CONTRASEÑAS | Correcciones: [EN VÍDEO] [MI SOLUCIÓN] [COMUNIDAD]
 #4 - 23/01/23 | Media | PRIMO, FIBONACCI Y PAR | Correcciones: [EN VÍDEO] [MI SOLUCIÓN] [COMUNIDAD]
 #5 - 30/01/23 | Fácil | HOLA MUNDO #PequeñaGranComunidad | Correcciones: [EN VÍDEO] [MI SOLUCIÓN] [COMUNIDAD]
@@ -53,7 +51,7 @@ Mucho exito!!!! 😄😄
 |NumeroReto|Dificultad|Nombre|Link|
 |----------|----------|------|------|
 |0|Facil|El famoso "FIZZ BUZZ"|[Reto0 Solucion](./soluciones/Reto0.py)|
-|||||
+|1|Facil|El lenguaje "HACKER"|[Reto1 Solucion](./soluciones/Reto1.py)|
 |||||
 |||||
 |||||
