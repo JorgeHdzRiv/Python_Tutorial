@@ -40,3 +40,5 @@ Mucho exito!!!! 😄😄
 ## Solucion Retos
 
 ### [Primeros 10 dias](./solucion/10_dias_sol.ipynb)
+
+### [10 a 20 dias](./solucion/10_20_sol.ipynb)
