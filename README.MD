@@ -6,6 +6,10 @@ El contenido se encuentra en cuadernos de Jupyter donde se tiene la teoria de va
 
 De igual forma algunos ejercicios semanales para ir practicando la logica, ademas de desafios diarios del repositorio 100 dias con Python.
 
+## Notebooks de estudio
+
+### [Notebooks](./Notebooks/readme.md)
+
 
 ## Retos semanales
 
