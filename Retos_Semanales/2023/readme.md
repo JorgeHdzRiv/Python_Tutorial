@@ -24,7 +24,7 @@ Mucho exito!!!! 😄😄
 |1|Facil|El lenguaje "HACKER"|[Reto 1](./retos/0_10.ipynb)|
 |2|Media|El partido de tenis|[Reto 2](./retos/0_10.ipynb)|
 |3|Media|EL GENERADOR DE CONTRASEÑAS|[Reto 3](./retos/0_10.ipynb)|
-|||||
+|4|Media|Primo, Fibonacci y par|[Reto 4](./retos/0_10.ipynb)|
 |||||
 |||||
 |||||
@@ -33,7 +33,7 @@ Mucho exito!!!! 😄😄
 |||||
 |||||
 
-#4 - 23/01/23 | Media | PRIMO, FIBONACCI Y PAR | Correcciones: [EN VÍDEO] [MI SOLUCIÓN] [COMUNIDAD]
+
 #5 - 30/01/23 | Fácil | HOLA MUNDO #PequeñaGranComunidad | Correcciones: [EN VÍDEO] [MI SOLUCIÓN] [COMUNIDAD]
 #6 - 06/02/23 | Media | PIEDRA, PAPEL, TIJERA, LAGARTO, SPOCK | Correcciones: [EN VÍDEO] [MI SOLUCIÓN] [COMUNIDAD]
 #7 - 13/02/23 | Media | EL SOMBRERO SELECCIONADOR | Correcciones: [EN VÍDEO] [MI SOLUCIÓN] [COMUNIDAD]
@@ -53,12 +53,11 @@ Mucho exito!!!! 😄😄
 |1|Facil|El lenguaje "HACKER"|[Reto1 Solucion](./soluciones/Reto1.py)|
 |2|Media|El partido de Tenis|[Reto2 Solucion](./soluciones/Reto2.py)|
 |3|Media|EL GENERADOR DE CONTRASEÑAS|[Reto3 Solucion](./soluciones/Reto3.py)|
+|4|Media|Primo, Fibonacci y par|[Reto 4 Solucion](./soluciones/Reto4.py)|
 |||||
 |||||
 |||||
 |||||
 |||||
 |||||
-|||||
-|||||
-|||||
+
