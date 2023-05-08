@@ -5,4 +5,5 @@ En estos diversos cuadernos se veran los diferentes conceptos del lenguaje por m
 # Notebooks
 
 ## [Primeros Pasos](./primeros_pasos.ipynb)
+## [Conceptos Basicos](./Conceptos_Basicos.ipynb)
 
