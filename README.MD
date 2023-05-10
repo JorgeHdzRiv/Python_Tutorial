@@ -10,7 +10,7 @@ De igual forma algunos ejercicios semanales para ir practicando la logica, adema
 
 ### [Notebooks](./Notebooks/readme.md)
 
-### [Ejercicios](./Notebooks_Ejercicios/readme.md)
+### [Ejercicios Resueltos](./Notebooks_Ejercicios/readme.md)
 
 
 ## Retos semanales

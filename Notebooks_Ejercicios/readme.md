@@ -5,4 +5,5 @@ En estos diversos cuadernos se vera la resolucion de los diferentes ejercicios d
 # Notebooks
 
 ## [Conceptos Basicos Ejercicios](./Conceptos_Basicos_Ejercicios.ipynb)
+## [Introduccion Listas Ejercicios](./Introduccion_Listas_Ejercicios.ipynb)
 
