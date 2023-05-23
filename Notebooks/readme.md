@@ -8,6 +8,7 @@ En estos diversos cuadernos se veran los diferentes conceptos del lenguaje por m
 ## [Conceptos Basicos](./Conceptos_Basicos.ipynb)
 ## [Introduccion a Listas](./Introduccion_Listas.ipynb)
 ## [Trabajando con Listas](./Trabajando_Listas.ipynb)
+## [Sentencias IF](./Sentencias_IF.ipynb)
 
 
 
