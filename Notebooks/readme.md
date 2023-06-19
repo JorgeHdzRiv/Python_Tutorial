@@ -13,6 +13,7 @@ Se recomienda seguir el orden si vas iniciando con Python
 ## [Sentencias IF](./Sentencias_IF.ipynb)
 ## [Diccionarios](./Diccionarios.ipynb)
 ## [Inputs y Ciclos While](./Inputs_CiclosWhile.ipynb)
+## [Funciones](./Funciones.ipynb)
 
 
 
