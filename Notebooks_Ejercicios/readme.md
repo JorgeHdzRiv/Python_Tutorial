@@ -8,5 +8,10 @@ En estos diversos cuadernos se vera la resolucion de los diferentes ejercicios d
 ## [Introduccion Listas Ejercicios](./Introduccion_Listas_Ejercicios.ipynb)
 ## [Trabajando con Listas Ejercicios](./Trabajando_Listas_Ejercicios.ipynb)
 ## [Sentencias If Ejercicios](./Sentencias_IF_Ejercicios.ipynb)
+## [Diccionarios Ejercicios](./Diccionarios_Ejercicios.ipynb)
+## [Inputs y Ciclos While](./Inputs_CiclosWhile_Ejercicios.ipynb)
+## [Funciones Ejercicios](./Funciones_Ejercicios.ipynb)
+
+
 
 
