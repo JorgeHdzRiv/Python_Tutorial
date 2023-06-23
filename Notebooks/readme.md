@@ -14,6 +14,9 @@ Se recomienda seguir el orden si vas iniciando con Python
 ## [Diccionarios](./Diccionarios.ipynb)
 ## [Inputs y Ciclos While](./Inputs_CiclosWhile.ipynb)
 ## [Funciones](./Funciones.ipynb)
+## [Clases](./Clases.ipynb)
+
+
 
 
 
