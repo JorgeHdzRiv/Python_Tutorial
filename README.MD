@@ -1,3 +1,22 @@
+# Índice
+
+- [Introducción](#introduccion)
+- [Material de Aprendizaje y Ejercicios](#material-de-aprendizaje-y-ejercicios)
+  - [Notebooks de estudio](#notebooks-de-estudio)
+    - [Notebooks](#notebooks)
+    - [Ejercicios Resueltos](#ejercicios-resueltos)
+  - [Certificación Python Institute](#certificación-python-institute)
+    - [Ejercicios de mi repositorio](#ejercicios-de-mi-repositorio)
+    - [Link del Python Institute](#link-del-python-institute)
+  - [Ciencia de Datos y Análisis de Datos](#ciencia-de-datos-y-analisis-de-datos)
+  - [Machine Learning](#machine-learning)
+- [Retos](#retos)
+  - [Retos semanales](#retos-semanales)
+    - [Descripción](#descripcion)
+  - [100 días con Python](#100-dias-con-python)
+    - [Descripción](#descripcion-1)
+- [Redes sociales](#redes-sociales)
+
 # Introduccion
 
 Este repositorio alberga contenido referente a temas de Python, desde teoria a ejercicios.
@@ -10,12 +29,33 @@ Mi recomendacion personal para un libro de introduccion es:
 
 De igual forma algunos ejercicios semanales para ir practicando la logica, ademas de desafios diarios del repositorio 100 dias con Python.
 
+# Material de Aprendizaje y Ejercicios
+
 ## Notebooks de estudio
 
 ### [Notebooks](./Notebooks/readme.md)
 
 ### [Ejercicios Resueltos](./Notebooks_Ejercicios/readme.md)
 
+## Certificacion Python Institute
+
+Si quieres certificarte de acuerdo al Python Institute tengo un repositorio con los ejercicios contenidos en la certificación desarrollados de acuerdo a mi lógica, si bien te pueden servir para estudiar y solo tomar el examen, mi recomendación personal es tomar el curso completo por parte del Python Institute. 
+
+Posteriormente se hara una version para el nivel intermedio
+
+### [Ejercicios de mi repositorio](https://github.com/JorgeHdzRiv/Python_ExercisesandExamples_Essentials1)
+
+### [Link del Python Institute](https://pythoninstitute.org/pcep)
+
+## Ciencia de Datos y Analisis de Datos
+
+PROXIMAMENTE..............
+
+## Machine Learning
+
+PROXIMAMENTE..............
+
+# Retos
 
 ## Retos semanales
 
@@ -27,7 +67,11 @@ De igual forma algunos ejercicios semanales para ir practicando la logica, adema
 ### [Descripcion](./Retos_100/readme.MD)
 
 
-## Redes sociales
+# Redes sociales
+
+### [Linkedin](https://www.linkedin.com/in/jorhdzriv/)
 
 
-*Agradezco cualquier correcion y/o colaboracion.*
+*Agradezco cualquier correcion y/o sugerencia.*
+
+*Si quieres ser parte de este repositorio no dudes en mandarme mensaje personal a mis redes sociales o enviar tu invitacion, sera un gusto poder trabajar juntos 😃😁*
