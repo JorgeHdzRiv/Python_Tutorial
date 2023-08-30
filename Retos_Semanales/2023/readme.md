@@ -26,6 +26,8 @@ Mucho exito!!!! 😄😄
 |3|Media|EL GENERADOR DE CONTRASEÑAS|[Reto 3](./retos/0_10.ipynb)|
 |4|Media|Primo, Fibonacci y par|[Reto 4](./retos/0_10.ipynb)|
 |5|Facil|Hola Mundo|[Reto 5](./retos/0_10.ipynb)|
+
+|7|Media|El sombrero seleccionador|[Reto 7](./retos/0_10.ipynb)|
 |||||
 |||||
 |||||
@@ -34,7 +36,6 @@ Mucho exito!!!! 😄😄
 |||||
 
 #6 - 06/02/23 | Media | PIEDRA, PAPEL, TIJERA, LAGARTO, SPOCK | Correcciones: [EN VÍDEO] [MI SOLUCIÓN] [COMUNIDAD]
-#7 - 13/02/23 | Media | EL SOMBRERO SELECCIONADOR | Correcciones: [EN VÍDEO] [MI SOLUCIÓN] [COMUNIDAD]
 #8 - 20/02/23 | Media | EL GENERADOR PSEUDOALEATORIO | Correcciones: [EN VÍDEO] [MI SOLUCIÓN] [COMUNIDAD]
 #9 - 27/02/23 | Fácil | HETEROGRAMA, ISOGRAMA Y PANGRAMA | Correcciones: [EN VÍDEO] [MI SOLUCIÓN] [COMUNIDAD]
 #10 - 06/03/23 | Media | LA API | Correcciones: [EN VÍDEO] [MI SOLUCIÓN] [COMUNIDAD]
@@ -53,6 +54,8 @@ Mucho exito!!!! 😄😄
 |3|Media|EL GENERADOR DE CONTRASEÑAS|[Reto3 Solucion](./soluciones/Reto3.py)|
 |4|Media|Primo, Fibonacci y par|[Reto 4 Solucion](./soluciones/Reto4.py)|
 |5|Facil|Hola Mundo|[Reto 5 Solucion](./soluciones/Reto5.py)|
+
+|7|Media|El sombrero seleccionador|[Reto 7 Solucion](./soluciones/Reto7.py)|
 |||||
 |||||
 |||||
