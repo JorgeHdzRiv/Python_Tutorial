@@ -27,6 +27,23 @@ class CuadradosMedios:
         x0 = self.semilla ** 2
         x0_str = str(x0)
         x0_str = x0_str.zfill(2 * self.n)
+        mitad = len(x0_str) // 4
+        self.semilla = int(x0_str[mitad:3 * mitad])
+        return self.semilla
+    
+# Parámetros del generador (puedes ajustar estos valores)
+semilla_inicial = 4230
+n = 4
+
+# Crear el generador
+generador = CuadradosMedios(semilla_inicial, n)
+
+
+# Generar números pseudoaleatorios entre 0 y 100
+numero_pseudoaleatorio = generador.generar() % 101
+print(f"El numero aleatorio es: {numero_pseudoaleatorio}")
+
+        
         
 
 
