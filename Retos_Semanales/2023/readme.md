@@ -26,7 +26,6 @@ Mucho exito!!!! 😄😄
 |3|Media|EL GENERADOR DE CONTRASEÑAS|[Reto 3](./retos/0_10.ipynb)|
 |4|Media|Primo, Fibonacci y par|[Reto 4](./retos/0_10.ipynb)|
 |5|Facil|Hola Mundo|[Reto 5](./retos/0_10.ipynb)|
-
 |7|Media|El sombrero seleccionador|[Reto 7](./retos/0_10.ipynb)|
 |8|Media|EL GENERADOR PSEUDOALEATORIO|[Reto 8](./retos/0_10.ipynb)|
 |||||
