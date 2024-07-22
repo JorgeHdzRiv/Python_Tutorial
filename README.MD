@@ -37,6 +37,12 @@ De igual forma algunos ejercicios semanales para ir practicando la logica, adema
 
 ### [Ejercicios Resueltos](./Notebooks_Ejercicios/readme.md)
 
+## Katas (Aprendizaje acelerado)
+
+Las Katas de aprendizaje son una forma rapida de aprender los fundamentos de Python, de una manera explicada y comun de familiarizarte con algun lenguaje de programacion, en las Katas de este repositorio se tocan los temas fundamentales de Python a traves de cuadernos de Jupyter los cuales explican lo que el codigo debe de hacer, no hay que olvidar que un problema puede tener diferentes soluciones asi que estos cuaderno solo son una de ellas.
+
+### [Katas](./Katas/readme.md)
+
 ## Certificacion Python Institute
 
 Si quieres certificarte de acuerdo al Python Institute tengo un repositorio con los ejercicios contenidos en la certificación desarrollados de acuerdo a mi lógica, si bien te pueden servir para estudiar y solo tomar el examen, mi recomendación personal es tomar el curso completo por parte del Python Institute. 
