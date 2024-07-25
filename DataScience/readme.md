@@ -7,3 +7,4 @@ Se recomienda seguir el orden si vas iniciando con los temas.
 # Notebooks
 
 ## [Matplotlib](./Matplotlib.ipynb)
+## [Diccionarios y Pandas](./Diccionarios_Pandas.ipynb)
