@@ -10,6 +10,7 @@ Se recomienda seguir el orden si vas iniciando con los temas.
 
 ## [Matplotlib](./Matplotlib.ipynb)
 ## [Diccionarios y Pandas](./Diccionarios_Pandas.ipynb)
+## [Manipulacion de Datos con Pandas](./Manipulacion_Pandas.ipynb)
 
 # Ejercicios Practicos
 
